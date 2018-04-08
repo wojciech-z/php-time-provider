@@ -1,6 +1,6 @@
 {
   "name": "wojciech/time-provider",
-  "type": "library",
+  "type": "symfony-bundle",
   "description": "An injectable time provider",
   "keywords": ["time", "date", "dependency injection"],
   "homepage": "https://github.com/wojciech-z/php-time-provider",
